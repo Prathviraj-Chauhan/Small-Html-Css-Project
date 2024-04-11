@@ -9,7 +9,7 @@ body{
     margin: 0;
 }
 .pimage1{
-    background-image: url(images/img\ 1.jpeg);
+    background-image: url(img\ 1.webp);
     height: 100%;
     position: relative;
     background-position: center;
@@ -25,11 +25,11 @@ body{
 
 }
 .pimage2{
-    background-image: url(images/img\ 2.jpeg);
+    background-image: url(img\ 2.webp);
     height: 400px;
 }
 .pimage3{
-    background-image: url(images/img\ 3.jpeg);
+    background-image: url(img\ 3.webp);
     height: 400px;
 }
 .ptext{
